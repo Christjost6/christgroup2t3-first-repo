@@ -1,2 +1,2 @@
-# christgroup2t3-first-repo
-my  first repository
+# etechApp1
+The first Team3 Group2 Git Project
